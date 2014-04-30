@@ -1,0 +1,12 @@
+{
+  "name": "botany",
+  "main": "./lib/botany",
+  "version": "0.0.0",
+  "description": "A git branch switcher for Atom.",
+  "activationEvents": ["botany:toggle"],
+  "repository": "https://github.com/jbarnette/botany",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}

@@ -1,0 +1,3 @@
+# https://atom.io/docs/latest/advanced/keymaps
+'.workspace':
+  'ctrl-cmd-b': 'botany:toggle'
